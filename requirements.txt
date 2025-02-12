@@ -1,0 +1,7 @@
+python-dotenv
+flask
+google-generativeai
+requests
+streamlit
+beautifulsoup4
+flask_swagger_ui
